@@ -10,8 +10,12 @@ To write a Python program that calculates the **sum of all elements** in a list.
 
 ## 🧾 Program
 
-Add code here
+```
+a=list(map(int,input().split()))
+print(f"The sum of the list is {sum(a)}")
+```
 
 ## Output
-
+![alt text](<Screenshot (49).png>)
 ## Result
+The Python program that calculates the **sum of all elements** in a list is executed sucessfully
